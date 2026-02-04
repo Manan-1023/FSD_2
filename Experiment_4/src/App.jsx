@@ -1,4 +1,4 @@
-import CounterReduxParent from "./components/redux/CounterGlobalReduxParent";
+import CounterReduxParent from "./components/Redux/CounterGlobalReduxParent";
 import LocalCounter from "./components/localstate/CounterState";
 import ParentCounter from "./components/contextapi/CounterParent";
 
