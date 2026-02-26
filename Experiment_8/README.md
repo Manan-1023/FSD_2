@@ -34,6 +34,10 @@ Experiment_8/
 ├── run.py
 └── README.md
 ```
+## Screenshot
+
+<img width="1919" height="970" alt="image" src="https://github.com/user-attachments/assets/e68a7d3e-602a-4d19-b6b6-be5601cb10ed" />
+
 
 ## Learning Outcome
 
