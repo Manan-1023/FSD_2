@@ -12,33 +12,9 @@ This project uses **GitHub Actions** for automated testing and continuous integr
 
 ---
 
-### Successful CI Run
-
-![CI Summary](./Screenshots/1.png)
-
----
-
-### Backend Test Execution
-
-![Backend Test](./Screenshots/2.png)
-
-**Steps:**
-- Setup Python environment
-- Install dependencies
-- Run backend tests
-- All tests passed successfully ✅
-
----
-
-### Frontend Test Execution
-
-![Frontend Test](./Screenshots/3.png)
-
-**Steps:**
-- Setup Node.js
-- Install dependencies
-- Run frontend tests using Vitest
-- All tests passed successfully ✅
+### Sceenshots
+<img width="1917" height="915" alt="image" src="https://github.com/user-attachments/assets/1a1f5122-30e6-484f-a093-d34f2e4da6c0" />
+<img width="1833" height="891" alt="image" src="https://github.com/user-attachments/assets/1994cc1e-b31d-4fc4-9cdd-033762f191dd" />
 
 ---
 
